@@ -56,9 +56,7 @@ Once thats done click File > Save and close the file. Restart your "control wall
 
 **Step 8**
 
-Go to your VPS, if you are using Linux use this command and press enter:
-
-     must upload "bytz-0.1.0-x86_64-linux-gnu.tar.gz" on that VM
+Go to your VPS, if you are using LINUX upload "bytz-0.1.0-x86_64-linux-gnu.tar.gz" to your home directory
 
 **Step 9**
 
@@ -142,4 +140,4 @@ Wait till your masternode has synced by accepting all the blocks on the network,
 
 **Step 17**
 
-Once you see that the masternode synced by accepting all the blocks on the network, go to your "control wallet". Select "Masternodes" and click on "Start MISSING". 
+Once you see that the masternode synced by accepting all the blocks on the network, go to your "control wallet". Select "Masternodes" and click on "Start MISSING".
