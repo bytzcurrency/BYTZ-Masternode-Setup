@@ -1,10 +1,10 @@
 #!/bin/bash
 
 TMP_FOLDER=$(mktemp -d)
-CONFIG_FILE='slate.conf'
-CONFIGFOLDER='/root/.slate'
-COIN_DAEMON='slated'
-COIN_CLI='slate-cli'
+CONFIG_FILE='bytz.conf'
+CONFIGFOLDER='/root/.bytz'
+COIN_DAEMON='bytzd'
+COIN_CLI='bytz-cli'
 COIN_PATH='/usr/local/bin/'
 COIN_REPO='https://github.com/bytzcurrency/bytz.git'
 COIN_TGZ='https://github.com/bytzcurrency/BYTZ/releases/download/v0.1.00/BYTZ-0.1.0-x86_64-linux-gnu.tar.gz'
