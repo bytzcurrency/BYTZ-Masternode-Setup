@@ -8,6 +8,8 @@ These steps are designed to help a user setup a masternode without using any scr
 
 Download the latest BYTZ core wallet and make sure the wallet is synced. This will be your "Control Wallet"
 
+https://github.com/bytzcurrency/BYTZ/releases
+
 **Step 2**
 
 Click on "Tools" and open the "Debug console"
@@ -57,6 +59,10 @@ Once thats done click File > Save and close the file. Restart your "control wall
 **Step 8**
 
 Go to your VPS, if you are using LINUX upload "bytz-0.1.0-x86_64-linux-gnu.tar.gz" to your home directory
+
+you can download the LINUX binary here:
+
+https://github.com/bytzcurrency/BYTZ/releases/download/v0.1.0.0/BYTZ-0.1.0.0-x86_64-linux-gnu.tar.gz
 
 **Step 9**
 
