@@ -209,5 +209,5 @@ OR you will see
 
 "code:-1" "Masternode not found in the list of available masternodes. Current status: Node just started, not yet activated" which is OK, please wait till status is changed to "Active"
 
-You can also check the status of your masternode by using the "Debug Console" in tools inside your Slate wallet and issuing a command "masternode status"
+You can also check the status of your masternode by using the "Debug Console" in tools inside your BYTZ wallet and issuing a command "masternode status"
 ***
